@@ -49,7 +49,7 @@ Crie um banco de dados e configure as variaveis de ambiente.
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=supera
+DB_DATABASE=oficinamaximo
 DB_USERNAME=root
 DB_PASSWORD=
 ```
